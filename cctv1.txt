@@ -1,12 +1,8 @@
 ﻿#EXTM3U
-#EXTINF:-1,汕头2
-rtsp://183.58.12.204/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil
 #EXTINF:-1,BBC系列
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 #EXTINF:-1,军事纪实
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
-#EXTINF:-1,大国时代
-http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
 #EXTINF:-1,热血抗战
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 #EXTINF:-1,CCTV 4K
