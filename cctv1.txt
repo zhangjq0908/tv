@@ -1,24 +1,12 @@
 ﻿#EXTM3U
 #EXTINF:-1,BBC系列
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-#EXTINF:-1,社会真相
-http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8
 #EXTINF:-1,军事纪实
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
-#EXTINF:-1,历史解密
-http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-#EXTINF:-1,科教人文
-http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
 #EXTINF:-1,大国时代
 http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
 #EXTINF:-1,热血抗战
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1,百看不厌
-http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
-#EXTINF:-1,少林问道
-http://hls-ott-zhibo.wasu.tv/live/160/index.m3u8
-#EXTINF:-1,睡前故事
-http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
 #EXTINF:-1,CCTV 4K
 http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/2000266301.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1综合HD
