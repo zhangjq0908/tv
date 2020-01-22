@@ -5,8 +5,38 @@ http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
 #EXTINF:-1,热血抗战
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1,CCTV 4K
-http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/2000266301.m3u8
+#EXTINF:-1,军事观察
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801212
+#EXTINF:-1,科学探索
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801157
+#EXTINF:-1,历史秘闻
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801159
+#EXTINF:-1,人文社会
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801160
+#EXTINF:-1,自然地理
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801158
+#EXTINF:-1,旅游攻略
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801211
+#EXTINF:-1,故宫
+http://www.sghlhh.xyz/dl3/aqy.php?id=3807144
+#EXTINF:-1,纪录片编辑
+http://www.sghlhh.xyz/dl3/aqy.php?id=3807146
+#EXTINF:-1,纪录片
+http://www.sghlhh.xyz/dl3/aqy.php?id=3806626
+#EXTINF:-1,戏曲
+http://www.sghlhh.xyz/dl3/aqy.php?id=3802291
+#EXTINF:-1,美食厨房
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801870
+#EXTINF:-1,奇妙世界
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801213
+#EXTINF:-1,重磅综艺
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801893
+#EXTINF:-1,真人秀
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801918
+#EXTINF:-1,脱口秀
+http://www.sghlhh.xyz/dl3/aqy.php?id=3801895
+#EXTINF:-1,经典纪实
+http://www.sghlhh.xyz/dl3/aqy.php?id=3807222
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1综合HD
 http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2财经
