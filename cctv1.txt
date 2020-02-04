@@ -325,8 +325,14 @@ http://111.40.205.76/PLTV/88888888/224/3221225674/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1,超级电影
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,变形金刚:
-http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8 
+#EXTINF:-1,变形金刚
+http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+#EXTINF:-1,复仇者联盟
+http://aldirect.hls.huya.com/backsrc/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+#EXTINF:-1,漫威电影
+http://aldirect.hls.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1,生化危机
+http://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
 #EXTINF:-1,探索纪实HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,风尚音乐HD
@@ -385,20 +391,6 @@ http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1,中文电影720P[1280*720]
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,上海资讯
-http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
-#EXTINF:-1,五星体育1080P
-http://111.48.34.209/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.209_80&hms_devid=443
-#EXTINF:-1,五星体育HD
-http://39.134.52.157/wh7f454c46tw1627642915_-1119941135/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8?icpid=88888888&RTS=1524229686&from=1&hms_devid=69
-#EXTINF:-1,上海新闻高清
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225973/3.m3u8
-#EXTINF:-1,上海纪实 HD
-http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
-#EXTINF:-1,上海纪实高清
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225971/3.m3u8
-#EXTINF:-1,上海都市高清
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225969/3.m3u8
 #EXTINF:-1,土装修
 http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
 #EXTINF:-1,東森新聞台
