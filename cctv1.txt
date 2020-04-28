@@ -48,7 +48,7 @@ http://itv.ahau.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="动漫",优漫卡通
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%8A%A8%E7%94%BB.png" group-title="动漫",CCTV 新科动漫
-http://39.135.15.70:6610/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
+http://mlive1.91kds.cn/b9/fjtv.m3u8?id=fjty&nwtime=1588069431&sign=9713f591a1553c9d371e6a49535662ff&mip=122.228.210.7&from=wx
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="动漫",黑莓动画
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育台",CCTV-5 体育频道
