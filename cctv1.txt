@@ -3,10 +3,16 @@
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
 http://itv.ahau.edu.cn/hls/chchdtv.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
+http://125.210.152.18:9090/live/CHCGQDY.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭电影
 http://itv.ahau.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭电影
+http://125.210.152.18:9090/live/JTYYHD.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="卫视频道",CHC动作电影
 http://itv.ahau.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="卫视频道",CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台频道",凤凰电影台
 http://itv.ahau.edu.cn/hls/fhdy.m3u8 
 #EXTINF:-1,国家地理
@@ -15,6 +21,24 @@ http://itv.ahau.edu.cn/hls/natlgeo.m3u8
 http://itv.ahau.edu.cn/hls/discovery.m3u8
 #EXTINF:-1,STAR SPORTS
 http://itv.ahau.edu.cn/hls/starsports.m3u8
+#EXTINF:-1 ,求索记录HD
+http://125.210.152.18:9090/live/QSJLHD_H265.m3u8
+#EXTINF:-1 ,求索动物HD
+http://125.210.152.18:9090/live/QSDW_1200.m3u8
+#EXTINF:-1 ,求索生活HD
+http://125.210.152.18:9090/live/QSSH_1200.m3u8
+#EXTINF:-1 ,求索科学HD
+http://125.210.152.18:9090/live/QSKX_1200.m3u8
+#EXTINF:-1 ,华数服务HD
+http://125.210.152.18:9090/live/HSFWHD.m3u8
+#EXTINF:-1 ,探索记录
+http://125.210.152.18:9090/live/TSJL.m3u8
+#EXTINF:-1 ,风尚音乐
+http://125.210.152.18:9090/live/FSYY.m3u8
+#EXTINF:-1 ,高清娱乐
+http://125.210.152.18:9090/live/GQYL.m3u8
+#EXTINF:-1 ,新视觉HD
+http://125.210.152.18:9090/live/XSJHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="中国",星空卫视
 http://itv.ahau.edu.cn/hls/startv.m3u8
 #EXTINF:-1,BBC独家
