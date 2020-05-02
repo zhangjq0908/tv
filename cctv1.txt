@@ -17,8 +17,12 @@ http://125.210.152.18:9090/live/DZDYHD.m3u8
 http://itv.ahau.edu.cn/hls/fhdy.m3u8 
 #EXTINF:-1,国家地理
 http://itv.ahau.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1,国家地理
+http://tv.sau.edu.cn/natlgeo.m3u8
 #EXTINF:-1,探索频道
 http://itv.ahau.edu.cn/hls/discovery.m3u8
+#EXTINF:-1,Discovery
+http://tv.sau.edu.cn/discovery.m3u8
 #EXTINF:-1,STAR SPORTS
 http://itv.ahau.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 ,求索记录HD
@@ -45,12 +49,16 @@ http://itv.ahau.edu.cn/hls/startv.m3u8
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/75/index.m3u8?&encrypt= 
 #EXTINF:-1,探索纪录
 http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/1000/index.m3u8?&encrypt=
-##EXTINF:-1,Discovery王牌节目展播
+#EXTINF:-1,Discovery王牌节目展播
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101098146/75/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻台",凤凰资讯
 http://itv.ahau.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻台",凤凰资讯
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="新闻台",凤凰中文
 http://itv.ahau.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="新闻台",凤凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/CNC_World_logo.png/220px-CNC_World_logo.png" group-title="新闻台",中国新华新闻
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="新闻台",第一财经
@@ -67,6 +75,8 @@ http://itv.ahau.edu.cn/hls/docuchina.m3u8
 http://itv.ahau.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1,全纪实HD
 http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/3000/index.m3u8?&encrypt=
+#EXTINF:-1,全纪实HD
+http://tv.sau.edu.cn/hls132.m3u8
 #EXTINF:-1,足球频道高清
 http://itv.ahau.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="动漫",优漫卡通
@@ -115,6 +125,8 @@ http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/2500/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国",北京卫视
 http://live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws711/1000/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国",北京卫视超高清
+http://ott.fj.chinamobile.com/PLTV-/88888888/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K 超高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合FHD
@@ -132,27 +144,39 @@ http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&&encrypt
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4 中文国际
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6 电影
-http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8#http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 HD（备用）
+http://tv.sau.edu.cn/cctv6hd.m3u8
+#EXTINF:-1,高清HD家庭影院
+http://itv.ahau.edu.cn/hls/hls75a29.m3u8#http://itv.ahau.edu.cn/hls/hls166.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7 军事
 http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8 电视剧
 http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国",CCTV-9 纪录
 http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 HD
+http://tv.sau.edu.cn/hls72a10.m3u8#http://itv.ahau.edu.cn/hls/cctv9hd.m3u8#http://itv.ahau.edu.cn/hls/hls72a10.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国",CCTV-10 科教
 http://111.40.205.76/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国",CCTV-11 戏曲
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+http://tv.sau.edu.cn/cctv11.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12 社会与法
 http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12 社会与法超高清
+http://ott.fj.chinamobile.com/PLTV-/88888888/224/3221225932/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13 新闻
 http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/1000/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13 新闻（备用）
+http://tv.sau.edu.cn/cctv13.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国",CCTV-14 少儿
 http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国",CCTV 15 音乐
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv17hd/51/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17 农业农村
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+http://tv.sau.edu.cn/cctv17hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17 农业农村（备用）
+http://itv.ahau.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国",CCTV 兵器科技
 http://itv.ahau.edu.cn/hls/gfjstv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdianshizhinan.png" group-title="中国",CCTV 电视指南
@@ -199,6 +223,8 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国",重庆卫视
 http://111.40.205.76/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国",重庆卫视超高清
+http://ott.fj.chinamobile.com/PLTV-/88888888/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国",东南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/FJTV-670x300.jpg" group-title="中国",海峡卫视
@@ -210,11 +236,13 @@ http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国",广东卫视
 http://111.40.205.73/PLTV/88888888/224/3221225736/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国",广东卫视
-#http://39.135.253.134/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225893/3.m3u8
+http://ott.fj.chinamobile.com/PLTV-/88888888/224/3221225824/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视
 http://111.40.205.76/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视
 http://39.135.253.162/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225967/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视超高清
+http://ott.fj.chinamobile.com/PLTV-/88888888/224/3221225848/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="中国",广西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国",贵州卫视
@@ -253,6 +281,8 @@ http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
 http://itv.ahau.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国",天津卫视
 http://111.40.205.76/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国",天津卫视超高清
+http://ott.fj.chinamobile.com/PLTV-/88888888/224/3221225830/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="中国",云南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="中国",西藏卫视
