@@ -565,6 +565,18 @@ http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 ,兵团卫视高清2
 http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
+#EXTINF:-1 ,深圳东部HD
+http://liveplay.sznews.com/66_norecord_live/343.m3u8
+#EXTINF:-1 ,深圳蛇口FHD
+http://218.17.99.211:82/hls/d4encs75.m3u8
+#EXTINF:-1 ,徐州1HD
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 ,徐州2HD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 ,徐州3HD
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 ,徐州4FHD
+http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合-高清
 http://hdtv.lzu6.edu.cn/hls/hls74a1.m3u8    
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经-高清
@@ -877,25 +889,3 @@ http://hdtv.lzu6.edu.cn/hls/hls105.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls19.m3u8    
 #EXTINF:-1 tvg-id="1044" tvg-name="靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png" group-title="地方",靓妆频道-标清
 http://hdtv.lzu6.edu.cn/hls/hls46.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="吉视公共-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",吉视公共-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_jsgg.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="吉林都市-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",吉林都市-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_jsds.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="吉林教育-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",吉林教育-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_jljy.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="吉视综艺-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",吉视综艺-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_jszh.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="吉视乡村-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",吉视乡村-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_jsxc.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="吉视影视-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",吉视影视-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_jsys.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="吉视生活-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",吉视生活-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_jssh.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="长春市民生活-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",长春市民生活-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_ccsm.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="长春汽车-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",长春汽车-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_ccqc.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="长春经济-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",长春经济-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_ccjj.m3u8    
-#EXTINF:-1 tvg-id="" tvg-name="长春娱乐-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",长春娱乐-标清
-http://hdtv.lzu6.edu.cn/hls/jlu_ccyl.m3u8    
