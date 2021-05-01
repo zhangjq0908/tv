@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,CCTV5 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 ,CCTV5 8M1080
