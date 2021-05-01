@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,iHot爱体育 7.5M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 ,iHot爱体育 7.5M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
 #EXTINF:-1 ,百事通体育 720
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
 #EXTINF:-1 ,百视通体育 720
