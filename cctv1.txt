@@ -180,13 +180,13 @@ http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV游戏风云 1080
 http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV劲爆体育 1080
-http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV魅力足球 1080
-http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV欢笑剧场 1080
 http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV极速汽车 1080
-http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV生活时尚 1080
 http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV全纪实 1080
