@@ -42,7 +42,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
 #EXTINF:-1 ,CHC蓝光电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 ,CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 ,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 ,CHC家庭影院
