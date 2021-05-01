@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,CCTV5 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 ,CCTV5 8M1080
@@ -821,3 +819,5 @@ http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls102.m3u8    
 #EXTINF:-1 tvg-id="" tvg-name="星影-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",星影-标清
 http://hdtv.lzu6.edu.cn/hls/hls59.m3u8    
+#EXTINF:-1 ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
