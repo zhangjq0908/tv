@@ -161,6 +161,8 @@ http://117.136.154.98/PLTV/88888888/224/3221225753/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 ,东方影视FHD
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海东方影视 1080
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,华侨城FHD
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 ,明星大片
