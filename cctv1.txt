@@ -95,6 +95,18 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 ,CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 ,NNM亚洲电影 576
+http://hdtv.haust.edu.cn/hls/hls30.m3u8
+#EXTINF:-1 ,NNM劲爆电影 576
+http://hdtv.haust.edu.cn/hls/hls155.m3u8
+#EXTINF:-1 ,NNM原声电影 576
+http://hdtv.haust.edu.cn/hls/hls33.m3u8
+#EXTINF:-1 ,NNM古装剧场 576
+http://hdtv.haust.edu.cn/hls/hls54.m3u8
+#EXTINF:-1 ,NNM喜剧电影 576
+http://hdtv.haust.edu.cn/hls/hls147.m3u8
+#EXTINF:-1 ,NNM怀旧电影 576
+http://hdtv.haust.edu.cn/hls/hls48.m3u8
 #EXTINF:-1 ,欧美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 #EXTINF:-1 ,BEST电影
