@@ -101,6 +101,14 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212297
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229010/index.m3u8
 #EXTINF:-1 ,Hot亚洲影院 720
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,G+TV海外佳片 8M1080
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,G+TV华语影院 8M1080
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,Dox剧场 8M1080
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,Dox怡家 8M1080
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,NNM亚洲电影 576
 http://hdtv.haust.edu.cn/hls/hls30.m3u8
 #EXTINF:-1 ,NNM劲爆电影 576
@@ -135,6 +143,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 ,求索四
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,Dox英伦 8M1080
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,求索动物 8M1080
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,求索生活 8M1080
