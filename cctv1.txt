@@ -11,6 +11,24 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212296
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 ,CCTV5+ 12M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+#EXTINF:-1 ,五星体育HD
+http://39.134.39.37/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 ,SiTV极速汽车FHD
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 ,SiTV劲爆体育FHD
+http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1 ,SiTV极速汽车 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
+#EXTINF:-1 ,体育赛事 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+#EXTINF:-1 ,精彩体育 4M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+#EXTINF:-1 ,Fashion TV (SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 ,HD Fashion & Lifestyle (UA)
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 ,SiTV新视觉 1080
+http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 ,NewTV精品体育 2.5M1080
 http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229026/index.m3u8
 #EXTINF:-1 ,iHot爱体育 7.5M1080
@@ -137,8 +155,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,华侨城FHD
 http://117.156.28.119/270000001111/1110000028/index.m3u8
-#EXTINF:-1 ,五星体育HD
-http://39.134.39.37/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 ,明星大片
 http://39.134.65.7:80/wh7f454c46tw1738936394_2033607545/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&S=1554599511&from=1&hms_devid=29
 #EXTINF:-1 ,生活时尚HD
@@ -149,16 +165,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 ,SiTV欢笑剧场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 ,SiTV极速汽车FHD
-http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 ,SiTV劲爆体育FHD
-http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
-#EXTINF:-1 ,Fashion TV (SK)
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle (UA)
-http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
-#EXTINF:-1 ,SiTV新视觉 1080
-http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV动漫秀场 1080
 http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 ,SiTV游戏风云 1080
